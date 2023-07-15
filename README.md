@@ -5,6 +5,7 @@ Kubernetes is a orchestration tool for microservices. It helps to scale the depl
 # To manage the cloud native microservices we have to make sure some things
 
 -> Scale on demand
+
 -> Self-heal of deployment 
 -> Support zero-downtime rolling updates
 -> Run anywhere
