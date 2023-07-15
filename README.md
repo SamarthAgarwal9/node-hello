@@ -45,8 +45,8 @@ The kubelet is the main kubernetes agent. It communicates with the control pane.
 # Deploy a NodeJS application on a Kubernetes cluster
 
 1. Create a Docker Image for a NodeJS application
-2. ublish that Image to DockerHub
-3. Create a Linode Kubernetes Cluster
+2. Publish that Image to DockerHub
+3. Create a minikube Kubernetes Cluster
 4. Install Kubectl on our local machine
 5. Deploy our application into Kubernetes cluster
 
