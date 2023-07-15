@@ -29,7 +29,6 @@ There are 2 kinds of nodes.
 
 1. Master nodes (Masters)
 2. Worker nodes (Nodes)
-
 # Masters
 
 Masters host the control pane and Nodes host user applications. You want to maintain high availability for the master nodes.
@@ -39,7 +38,6 @@ The Nodes (aka Workers) run 2 main services.
 
 1. Kubelet
 2. Container runtime
-
 # Kubelet
 
 The kubelet is the main kubernetes agent. It communicates with the control pane.
