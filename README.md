@@ -128,5 +128,4 @@ To start the service on Kubernetes cluster
 
 Ip generate at which the deployment of any application can be done 
 
-
 * By following the abobe steps we successfully deploy the Node App on Kubernetes as well as on Docker!!!!.. 
