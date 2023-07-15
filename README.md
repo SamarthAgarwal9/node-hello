@@ -16,7 +16,7 @@ And Kubernetes provides all of them. It is called the OS of the cloud.
 
 # What that means is you don't have to worry which service you are using underneath. 
 
-This can be AWS. You can just swap out the underlying architecture if you use Kubernetes. for Beginners with NodeJS Express Application that's why it's so popular and powerful.
+This can be AWS. You can just swap out the underlying architecture if you use Kubernetes. For Beginners with NodeJS Express Application that's why it's so popular and powerful.
 
 # Cluster and Nodes
 
